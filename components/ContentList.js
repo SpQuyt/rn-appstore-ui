@@ -188,7 +188,7 @@ const styles = StyleSheet.create({
     justifyContent: 'flex-end',
   },
   footer: {
-    height: 80,
+    height: "40%",
     backgroundColor: '#cccccccc',
     justifyContent: 'center',
     paddingLeft: 20,
