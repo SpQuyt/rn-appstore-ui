@@ -11,7 +11,7 @@ const RootStack = createStackNavigator(
     Home: Home
   },
   {
-    initialRouteName: 'Login',
+    initialRouteName: 'Home',
     headerMode: 'none',
     navigationOptions: ({navigation}) => {
       MasterNav.app = navigation;
